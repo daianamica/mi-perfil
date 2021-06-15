@@ -9,9 +9,13 @@ body{
 h1 {font-size: 40px;}
 
 body.body2 {
-    background-color: rgb(18, 150, 155);
-    font-family: 'Staatliches', cursive;
+    font-family: 'Staatliches';
+    }
+dl {
+  margin-left: 20px;
 }
+
+.column content {column-count: 2;}
 
 h2 {font-size:22px;
 
@@ -31,9 +35,7 @@ text-align: center;}
 body {
   margin: 0;
 }
-i.fab.fa-instagram {
-    height: 250px;
-}
+
 
 .header {
   background-color:lightcoral;
